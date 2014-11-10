@@ -3,6 +3,8 @@ Talk Browserify, Live-coding #1
 
 Sources d'un live-coding effectué lors de la session "Modulariser son application AngularJS avec Browserify" au [DevFest Nantes 2014](http://devfest.gdgnantes.com).
 
+Ce live-coding présente une application Node.JS basique puis, grâce à Browserify, la fait tourner dans le navigateur.
+
 Voir aussi :
 * [les slides](https://speakerdeck.com/antoinerichard/browserify-et-angularjs)
 * [live-coding "NodeJS-ification d'une application AngularJS"](https://github.com/antoine-richard/devfest-browserify-demo2)
